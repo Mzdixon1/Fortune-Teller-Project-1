@@ -88,7 +88,7 @@ namespace Fortune_Teller___Project_1
             }
             else if (userFavoriteColor.ToLower() == "green")
             {
-                modeOfTransportation = " a snowmobile";
+                modeOfTransportation = "a snowmobile";
             }
             else if (userFavoriteColor.ToLower() == "blue")
             {
@@ -96,11 +96,11 @@ namespace Fortune_Teller___Project_1
             }
             else if (userFavoriteColor.ToLower() == "indigo")
             {
-                modeOfTransportation = " an automobile";
+                modeOfTransportation = "an automobile";
             }
             else if (userFavoriteColor.ToLower() == "violet");
             {
-                modeOfTransportation = " a scooter";
+                modeOfTransportation = "a scooter";
             }
             // If the user’s birth month is 1-4, they will have $____ in the bank; if the user's birth month is 5-8, they will have $____ in the bank; and if it is 9-12, then they will have $____ in the bank. If the user enters something other than 01-12 as their birth month, they will have $0.00 in the bank.
 
@@ -127,7 +127,7 @@ namespace Fortune_Teller___Project_1
             }
             Console.WriteLine(firstName + " " + lastName + " will retire in " + yearsUntilRetirement + " with " + moneyInAccount + " in the bank, a vacation home in " + vacationHome + " and " + modeOfTransportation + ".");
             Console.ReadLine();
-
+            Environment.Exit(0);
         }
     }
 
