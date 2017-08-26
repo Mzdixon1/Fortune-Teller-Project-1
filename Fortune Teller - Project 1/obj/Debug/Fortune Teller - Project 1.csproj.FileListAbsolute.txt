@@ -4,3 +4,10 @@ c:\users\wecancodeit\documents\visual studio 2015\Projects\Fortune Teller - Proj
 c:\users\wecancodeit\documents\visual studio 2015\Projects\Fortune Teller - Project 1\Fortune Teller - Project 1\bin\Debug\Fortune Teller - Project 1.pdb
 c:\users\wecancodeit\documents\visual studio 2015\Projects\Fortune Teller - Project 1\Fortune Teller - Project 1\obj\Debug\Fortune Teller - Project 1.exe
 c:\users\wecancodeit\documents\visual studio 2015\Projects\Fortune Teller - Project 1\Fortune Teller - Project 1\obj\Debug\Fortune Teller - Project 1.pdb
+C:\Projects\FortuneTeller1\Fortune Teller - Project 1\bin\Debug\Fortune Teller - Project 1.exe.config
+C:\Projects\FortuneTeller1\Fortune Teller - Project 1\bin\Debug\Fortune Teller - Project 1.exe
+C:\Projects\FortuneTeller1\Fortune Teller - Project 1\bin\Debug\Fortune Teller - Project 1.pdb
+C:\Projects\FortuneTeller1\Fortune Teller - Project 1\obj\Debug\Fortune Teller - Project 1.csprojResolveAssemblyReference.cache
+C:\Projects\FortuneTeller1\Fortune Teller - Project 1\obj\Debug\Fortune Teller - Project 1.csproj.CoreCompileInputs.cache
+C:\Projects\FortuneTeller1\Fortune Teller - Project 1\obj\Debug\Fortune Teller - Project 1.exe
+C:\Projects\FortuneTeller1\Fortune Teller - Project 1\obj\Debug\Fortune Teller - Project 1.pdb
